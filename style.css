@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KLN Art's & Science</title>
-    <style>
-        body {
+
+       body {
             font-family: 'Roboto', sans-serif;
             background-color: #f5f5f5;
             margin: 0;
@@ -101,23 +95,3 @@
                 padding: 10px 0;
             }
         }
-    </style>
-</head>
-<body>
-    <center>
-        <header>
-            <!-- Your header content -->
-        </header>
-    </center>
-    <nav>
-        <!-- Your navigation links -->
-    </nav>
-    <section id="home">
-        <!-- Your home section content -->
-    </section>
-    <!-- Repeat the above structure for other sections -->
-    <footer>
-        <p>&copy; 2024 KLN College of Art's & Science. All rights reserved.</p>
-    </footer>
-</body>
-</html>
